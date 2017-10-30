@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/gamemap"
+        android:title="Mappa"
+        android:id="@+id/mapItem"/>
+    <item
+        android:icon="@drawable/qrcodescan"
+        android:title="QR Code"
+        android:id="@+id/codeItem"/>
+    <item
+        android:icon="@drawable/story"
+        android:title="Storie"
+        android:id="@+id/storyItem"/>
+</menu>

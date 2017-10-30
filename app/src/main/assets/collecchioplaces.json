@@ -1,0 +1,24 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.89220, 12.75293]
+    },
+    "properties": {
+      "name": "Casa di Magghittu",
+      "id":"HAI TROVATO MAGGHITTU!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.89237, 12.75293]
+    },
+    "properties": {
+      "name": "Casa di Puccio",
+      "id":"HAI TROVATO COPPU!"
+    }
+  }
+]

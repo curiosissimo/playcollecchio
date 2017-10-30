@@ -1,0 +1,20 @@
+[
+  {
+    "id":"HAI TROVATO MAGGHITTU!",
+    "name":"Magghittu",
+    "description":"Magghittu è un birbante,ecco",
+    "image":"mario"
+  },
+  {
+    "id":"HAI TROVATO COPPU!",
+    "name":"Coppu",
+    "description":"Coppu è un birbante,ecco",
+    "image":"mario"
+  },
+  {
+    "id":"Scimone",
+    "name":"Coppu",
+    "description":"Scimone è un birbante,ecco",
+    "image":"mario"
+  }
+]
